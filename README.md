@@ -30,5 +30,3 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanishkBhatt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
