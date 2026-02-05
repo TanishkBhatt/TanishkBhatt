@@ -24,6 +24,13 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 - Advanced AI Techniques
 - Data Structures and Algorithms
 
+# Projects
+- Market Management System - Python <br>
+Link : https://github.com/TanishkBhatt/Market-Management-System/
+
+- Github Repo Analyzer <br>
+Link : https://github.com/TanishkBhatt/Github-Repo-Analyzer/
+
 # GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TanishkBhatt&theme=dark&hide_border=false)<br/>
