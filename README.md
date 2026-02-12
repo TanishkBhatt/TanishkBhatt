@@ -32,10 +32,10 @@ Link : https://github.com/TanishkBhatt/Market-Management-System/
 Link : https://github.com/TanishkBhatt/Github-Repo-Analyzer/
 
 # Coding Series
-- PY GAMES
+- PY GAMES <br>
 Link : https://github.com/TanishkBhatt/PY-GAMES/
 
-- PY MATHS
+- PY MATHS <br>
 Link : https://github.com/TanishkBhatt/PY-MATHS/
 
 # GitHub Stats
