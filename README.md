@@ -31,6 +31,13 @@ Link : https://github.com/TanishkBhatt/Market-Management-System/
 - Github Repo Analyzer <br>
 Link : https://github.com/TanishkBhatt/Github-Repo-Analyzer/
 
+# Coding Series
+- PY GAMES
+Link : https://github.com/TanishkBhatt/PY-GAMES/
+
+- PY MATHS
+Link : https://github.com/TanishkBhatt/PY-MATHS/
+
 # GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TanishkBhatt&theme=dark&hide_border=false)<br/>
