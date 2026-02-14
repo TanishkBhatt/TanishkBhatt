@@ -31,7 +31,7 @@ Link : https://github.com/TanishkBhatt/Market-Management-System/
 - Github Repo Analyzer <br>
 Link : https://github.com/TanishkBhatt/Github-Repo-Analyzer/
 
-# Coding Series
+## Coding Series
 - PY GAMES <br>
 Link : https://github.com/TanishkBhatt/PY-GAMES/
 
