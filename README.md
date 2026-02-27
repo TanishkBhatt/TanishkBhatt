@@ -8,22 +8,27 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 
 # TECHNICAL STACK
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## CURRENT SKILLS 
 - Core Python Programming
 - Pandas - Data Analysis
 - NumPy - Numerical Computing
 - Matplotlib - Data Visualization
+- Streamlit - UI Integration
 - File Handling
 - API Integration
+- SQLite Local Database
 
 ## LEARNING PATH 
 - Machine Learning Libraries
 - ML Models & Algorithms
-- Database Management Systems
 - Advanced AI Techniques
-- Data Structures and Algorithms
-- System Design
+- Database Management Systems
+- System Designs
+- Cloud Storage Systems
+- Authentication
 
 # PROJECTS 
 - `Market Management System - Python` <br>
