@@ -35,14 +35,14 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 - APP : None
 - SOURCE : https://github.com/TanishkBhatt/Market-Management-System/
 
-#### Github Repo Analyzer
+#### Github Repo Analyzer -Python
 - SOURCE : https://github.com/TanishkBhatt/Github-Repo-Analyzer/
 
-#### Analytics Dashboard - ICC Men's T20 World Cup 2022
+#### Analytics Dashboard - Streamlit
 - APP : https://analytics-dashboard-tanishkbhatt.streamlit.app/ <br>
 - SOURCE : https://github.com/TanishkBhatt/Analytics-Dashboard/
 
-#### Hackathon Project
+#### Hackathon Project - JavaScript
 - WEBSITE : https://tanishkbhatt.github.io/Hackathon-Project/
 - SOURCE : https://github.com/TanishkBhatt/Hackathon-Project/
 
