@@ -31,21 +31,27 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 - Authentication
 
 # PROJECTS 
-- `Market Management System - Python` <br>
-https://github.com/TanishkBhatt/Market-Management-System/
+#### Market Management System - Python
+- APP : None
+- SOURCE : https://github.com/TanishkBhatt/Market-Management-System/
 
-- `Github Repo Analyzer` <br>
-https://github.com/TanishkBhatt/Github-Repo-Analyzer/
+#### Github Repo Analyzer
+- SOURCE : https://github.com/TanishkBhatt/Github-Repo-Analyzer/
 
-- `Guide To Data Analytics` <br>
-https://github.com/TanishkBhatt/Guide-To-Data-Analytics/
+#### Analytics Dashboard - ICC Men's T20 World Cup 2022
+- APP : https://analytics-dashboard-tanishkbhatt.streamlit.app/ <br>
+- SOURCE : https://github.com/TanishkBhatt/Analytics-Dashboard/
+
+#### Hackathon Project
+- WEBSITE : https://tanishkbhatt.github.io/Hackathon-Project/
+- SOURCE : https://github.com/TanishkBhatt/Hackathon-Project/
 
 ## CODING SERIES
-- `PY GAMES` <br>
-https://github.com/TanishkBhatt/PY-GAMES/
+#### PY GAMES
+- SOURCE : https://github.com/TanishkBhatt/PY-GAMES/
 
-- `PY MATHS` <br>
-https://github.com/TanishkBhatt/PY-MATHS/
+#### PY MATHS
+- SOURCE : https://github.com/TanishkBhatt/PY-MATHS/
 
 # GITHUB STATS
 ![](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
