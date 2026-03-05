@@ -35,11 +35,12 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 - APP : None
 - SOURCE : https://github.com/TanishkBhatt/Market-Management-System/
 
-#### Github Repo Analyzer -Python
+#### Github Repo Analyzer - Python
+- APP : https://githb-repo-analyzer-tanishkbhatt.streamlit.app
 - SOURCE : https://github.com/TanishkBhatt/Github-Repo-Analyzer/
 
 #### Analytics Dashboard - Streamlit
-- APP : https://analytics-dashboard-tanishkbhatt.streamlit.app/ <br>
+- APP : https://analytics-dashboard-tanishkbhatt.streamlit.app/
 - SOURCE : https://github.com/TanishkBhatt/Analytics-Dashboard/
 
 #### Hackathon Project - JavaScript
