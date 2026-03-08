@@ -23,17 +23,12 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 
 ## LEARNING PATH 
 - Machine Learning Libraries
-- ML Models & Algorithms
-- Advanced AI Techniques
+- AI Models & Algorithms
 - Database Management Systems
 - System Designs
-- Cloud Storage Systems
-- Authentication
+- Cloud and Authentication
 
 # PROJECTS 
-#### Market Management System - Python
-- APP : None
-- SOURCE : https://github.com/TanishkBhatt/Market-Management-System/
 
 #### Github Repo Analyzer - Python
 - APP : https://githb-repo-analyzer-tanishkbhatt.streamlit.app
@@ -50,7 +45,6 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 ## CODING SERIES
 #### PY GAMES
 - SOURCE : https://github.com/TanishkBhatt/PY-GAMES/
-
 #### PY MATHS
 - SOURCE : https://github.com/TanishkBhatt/PY-MATHS/
 
@@ -61,6 +55,4 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 
 ---
 
-
 [![](https://visitcount.itsvg.in/api?id=TanishkBhatt&icon=0&color=0)](https://visitcount.itsvg.in)
-
