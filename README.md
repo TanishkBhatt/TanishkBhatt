@@ -29,24 +29,18 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 - Cloud and Authentication
 
 # PROJECTS 
-
 #### Github Repo Analyzer - Python
 - APP : https://githb-repo-analyzer-tanishkbhatt.streamlit.app
 - SOURCE : https://github.com/TanishkBhatt/Github-Repo-Analyzer/
+
+![](img/github-repo-analyzer.png)
 
 #### Analytics Dashboard - Streamlit
 - APP : https://analytics-dashboard-tanishkbhatt.streamlit.app/
 - SOURCE : https://github.com/TanishkBhatt/Analytics-Dashboard/
 
-#### Hackathon Project - JavaScript
-- WEBSITE : https://tanishkbhatt.github.io/Hackathon-Project/
-- SOURCE : https://github.com/TanishkBhatt/Hackathon-Project/
-
-## CODING SERIES
-#### PY GAMES
-- SOURCE : https://github.com/TanishkBhatt/PY-GAMES/
-#### PY MATHS
-- SOURCE : https://github.com/TanishkBhatt/PY-MATHS/
+![](img/anlytics-dashboard-I.png)
+![](img/anlytics-dashboard-II.png)
 
 # GITHUB STATS
 ![](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -54,5 +48,3 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=TanishkBhatt&icon=0&color=0)](https://visitcount.itsvg.in)
