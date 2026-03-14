@@ -1,5 +1,5 @@
 # ABOUT ME
-I'm a passionate 15-year-old programmer from Pithoragarh, Uttarakhand, with a deep interest in technology and innovation. My journey into programming began in 2025, and since then, I've been captivated by the endless possibilities that code offers. As a student I balance my academic pursuits with my love for programming and software development.
+Hey There! I'm a passionate 15-year-old programmer from Pithoragarh, Uttarakhand, with a deep interest in technology and innovation. My journey into programming began in 2025, and since then, I've been captivated by the endless possibilities that code offers. As a student I balance my academic pursuits with my love for programming and software development.
  
 My primary focus is on Python programming, particularly in the domains of Artificial Intelligence and Machine Learning. I believe that technology has the power to solve real-world problems, and I'm committed to developing my skills to become a proficient software developer. Through continuous learning and hands-on projects, I'm building a strong foundation in programming while exploring the fascinating world of data science and AI.
 
@@ -36,15 +36,15 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 ![](img/github-repo-analyzer.png)
 
 #### Analytics Dashboard - Streamlit
-- APP : https://analytics-dashboard-tanishkbhatt.streamlit.app/
-- SOURCE : https://github.com/TanishkBhatt/Analytics-Dashboard/
+- APP : https://cricket-analytics-dashboard-tanishkbhatt.streamlit.app/
+- SOURCE : https://github.com/TanishkBhatt/Cricket-Analytics-Dashboard/
 
 ![](img/anlytics-dashboard-I.png)
 ![](img/anlytics-dashboard-II.png)
 
 # GITHUB STATS
-![](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TanishkBhatt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=TanishkBhatt&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---

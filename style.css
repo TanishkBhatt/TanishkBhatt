@@ -460,7 +460,9 @@ section {
 }
 
 .achievement-link {
-    display: inline-block;
+    display: block;
+    width: 200px;
+    margin-bottom: 6px;
     padding: 0.7rem 1.5rem;
     background: var(--accent-color);
     color: var(--primary-bg);
