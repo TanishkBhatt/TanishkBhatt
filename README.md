@@ -4,7 +4,6 @@ Hey There! I'm a passionate 15-year-old programmer from Pithoragarh, Uttarakhand
 My primary focus is on Python programming, particularly in the domains of Artificial Intelligence and Machine Learning. I believe that technology has the power to solve real-world problems, and I'm committed to developing my skills to become a proficient software developer. Through continuous learning and hands-on projects, I'm building a strong foundation in programming while exploring the fascinating world of data science and AI.
 
 # SOCIAL LINKS
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge)](https://your-portfolio-link.com)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishkbhatt25@gmail.com) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tanishk_Bhatt)
 
