@@ -31,21 +31,23 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 - System Design
 
 # PROJECTS 
-#### Github Repo Analyzer - Python
+### Github Repo Analyzer - Python
 - APP : https://githb-repo-analyzer-tanishkbhatt.streamlit.app
 - SOURCE : https://github.com/TanishkBhatt/Github-Repo-Analyzer/
 
 ![](img/github-repo-analyzer.png)
 
-#### Analytics Dashboard - Streamlit
+### Analytics Dashboard - Streamlit
 - APP : https://cricket-analytics-dashboard-tanishkbhatt.streamlit.app/
 - SOURCE : https://github.com/TanishkBhatt/Cricket-Analytics-Dashboard/
 
 ![](img/anlytics-dashboard.png)
 
 # GITHUB STATS
-![](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=TanishkBhatt&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![Github Activity](https://nirzak-streak-stats.vercel.app/?user=TanishkBhatt&theme=dark)
+
+![Top Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanishkBhatt&theme=dark)
 
 ---
