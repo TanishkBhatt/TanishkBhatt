@@ -33,28 +33,44 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 - Data Structures and Algorithms 
 - System Design
 
+---
+
 # PROJECTS 
 ### GITHUB REPO ANALYZER
 An intelligent tool that analyzes GitHub repositories, providing insights and statistics. Built using Python and GitHub API to fetch and process repository data.
-- APP : https://githb-repo-analyzer-tanishkbhatt.streamlit.app
-- SOURCE : https://github.com/TanishkBhatt/Github-Repo-Analyzer/
+
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://githb-repo-analyzer.streamlit.app)
+
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Github-Repo-Analyzer)
 
 ![](img/github-repo-analyzer.png)
 
+--- 
+
 ### ANALYTICS DASHBOARD
 A Python Based Analytics Tool to analyze ICC Men's T20 World Cup Performances from year 2022 onwards. Cooperated by Streamlit Framework and Hosting Services.
-- APP : https://cricket-analytics-dashboard-tanishkbhatt.streamlit.app/
-- SOURCE : https://github.com/TanishkBhatt/Cricket-Analytics-Dashboard/
+
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cricket-analytics-dashboard.streamlit.app)
+
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Cricket-Analytics-Dashboard)
 
 ![](img/anlytics-dashboard.png)
+
+---
 
 ### DEVPULSE SURVEY
 An Intreactive Survey and Analutics Site for Developers to Analyze Current Trends. Streamlit UI and MongoDB Atlas Cloud Database Integration.
 
-- APP : https://cricket-analytics-dashboard-tanishkbhatt.streamlit.app/
-- SOURCE : https://github.com/TanishkBhatt/Cricket-Analytics-Dashboard/
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://devpulse-survey.streamlit.app)
+
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/DevPulse-Survey)
 
 ![](img/devpulse-survey.png)
+
+---
 
 # GITHUB STATS
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
