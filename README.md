@@ -13,6 +13,8 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQlite]()
+![MongoDB]()
 
 ## CURRENT SKILLS 
 - Core Python Programming
@@ -32,17 +34,27 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 - System Design
 
 # PROJECTS 
-### Github Repo Analyzer - Python
+### GITHUB REPO ANALYZER
+An intelligent tool that analyzes GitHub repositories, providing insights and statistics. Built using Python and GitHub API to fetch and process repository data.
 - APP : https://githb-repo-analyzer-tanishkbhatt.streamlit.app
 - SOURCE : https://github.com/TanishkBhatt/Github-Repo-Analyzer/
 
 ![](img/github-repo-analyzer.png)
 
-### Analytics Dashboard - Streamlit
+### ANALYTICS DASHBOARD
+A Python Based Analytics Tool to analyze ICC Men's T20 World Cup Performances from year 2022 onwards. Cooperated by Streamlit Framework and Hosting Services.
 - APP : https://cricket-analytics-dashboard-tanishkbhatt.streamlit.app/
 - SOURCE : https://github.com/TanishkBhatt/Cricket-Analytics-Dashboard/
 
 ![](img/anlytics-dashboard.png)
+
+### DEVPULSE SURVEY
+An Intreactive Survey and Analutics Site for Developers to Analyze Current Trends. Streamlit UI and MongoDB Atlas Cloud Database Integration.
+
+- APP : https://cricket-analytics-dashboard-tanishkbhatt.streamlit.app/
+- SOURCE : https://github.com/TanishkBhatt/Cricket-Analytics-Dashboard/
+
+![](img/devpulse-survey.png)
 
 # GITHUB STATS
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
