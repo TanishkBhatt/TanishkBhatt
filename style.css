@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins";
+    font-family: "Space Grotesk";
 }
 
 :root {
@@ -599,7 +599,7 @@ footer {
 }
 
 /* Responsive */
-@media (max-width: 1024px) {
+@media (max-width: 980px) {
     .menu-toggle {
         display: flex;
     }

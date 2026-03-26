@@ -4,10 +4,12 @@ Hey There! I'm a passionate 15-year-old programmer from Pithoragarh, Uttarakhand
 My primary focus is on Python programming, particularly in the domains of Artificial Intelligence and Machine Learning. I believe that technology has the power to solve real-world problems, and I'm committed to developing my skills to become a proficient software developer. Through continuous learning and hands-on projects, I'm building a strong foundation in programming while exploring the fascinating world of data science and AI.
 
 # SOCIAL LINKS
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishkbhatt25@gmail.com) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tanishk_Bhatt)
 
 # TECHNICAL STACK
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -18,9 +20,8 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 
 ## CURRENT SKILLS 
 - Core Python Programming
-- Pandas - Data Analysis
-- NumPy - Numerical Computing
-- Matplotlib - Data Visualization
+- Pandas & Numpy - Data Analytics
+- Matplotlib & Plotly- Data Visualization
 - Streamlit - UI Integration
 - API Integration and Web Scrapping
 - SQlite Local Database
@@ -39,7 +40,7 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 ### GITHUB REPO ANALYZER
 An intelligent tool that analyzes GitHub repositories, providing insights and statistics. Built using Python and GitHub API to fetch and process repository data.
 
-[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://githb-repo-analyzer.streamlit.app)
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://githb-repo-analyzer-tanishkbhatt.streamlit.app)
 
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Github-Repo-Analyzer)
@@ -51,7 +52,7 @@ An intelligent tool that analyzes GitHub repositories, providing insights and st
 ### ANALYTICS DASHBOARD
 A Python Based Analytics Tool to analyze ICC Men's T20 World Cup Performances from year 2022 onwards. Cooperated by Streamlit Framework and Hosting Services.
 
-[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cricket-analytics-dashboard.streamlit.app)
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cricket-analytics-dashboard-tanishkbhatt.streamlit.app)
 
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Cricket-Analytics-Dashboard)
@@ -63,7 +64,7 @@ A Python Based Analytics Tool to analyze ICC Men's T20 World Cup Performances fr
 ### DEVPULSE SURVEY
 An Intreactive Survey and Analutics Site for Developers to Analyze Current Trends. Streamlit UI and MongoDB Atlas Cloud Database Integration.
 
-[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://devpulse-survey.streamlit.app)
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://devpulse-survey-tanishkbhatt.streamlit.app)
 
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/DevPulse-Survey)
