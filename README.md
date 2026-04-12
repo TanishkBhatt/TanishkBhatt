@@ -1,7 +1,7 @@
 # ABOUT ME
-Hey There! I'm a passionate 15-year-old programmer from Pithoragarh, Uttarakhand, with a deep interest in technology and innovation. My journey into programming began in 2025, and since then, I've been captivated by the endless possibilities that code offers. As a student I balance my academic pursuits with my love for programming and software development.
- 
-My primary focus is on Python programming, particularly in the domains of Artificial Intelligence and Machine Learning. I believe that technology has the power to solve real-world problems, and I'm committed to developing my skills to become a proficient software developer. Through continuous learning and hands-on projects, I'm building a strong foundation in programming while exploring the fascinating world of data science and AI.
+Hey There! I'm A Passionate 15-Year-Old Programmer From Pithoragarh, Uttarakhand, With A Deep Interest In Technology And Innovation. My Journey Into Programming Began In 2025, And Since Then, I've Been Captivated By The Endless Possibilities That Code Offers. As A Student, I Balance My Academic Pursuits With My Love For Programming And Software Development.
+
+My Primary Focus Is On Python Programming, Particularly In The Domains Of Artificial Intelligence And Machine Learning. I Believe That Technology Has The Power To Solve Real-World Problems, And I'm Committed To Developing My Skills To Become A Proficient Software Developer. Through Continuous Learning And Hands-On Projects, I'm Building A Strong Foundation In Programming While Exploring Data Science And AI.
 
 # SOCIAL LINKS
 
@@ -18,42 +18,73 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## CURRENT SKILLS 
+## CURRENT SKILLS
 - Core Python Programming
 - Pandas & Numpy - Data Analytics
-- Matplotlib & Plotly- Data Visualization
+- Matplotlib & Plotly - Data Visualization
 - Streamlit - Frontend Integration
-- FastAPI - Backend Integration
-- MongoDB Database
+- Fastapi - Backend Integration
+- Mongodb Database
 
-## LEARNING PATH 
+## LEARNING PATH
 - Full Stack Web Development
-- Cloud and Authentication
-- Data Structures and Algorithms 
+- Cloud And Authentication
+- Data Structures And Algorithms
 - System Design
 
 ---
 
 # PROJECTS
-### GITHUB REPO ANALYZER
-An intelligent tool that analyzes GitHub repositories, providing insights and statistics. Built using Python and GitHub API to fetch and process repository data.
+
+---
+
+## GITHUB REPO ANALYZER
+
+An Application That Analyzes Github Repositories And Provides Structured Insights Using Data Fetched From The Github Api.
+
+### FEATURES
+- Repository Statistics
+- Real-Time Data Fetching Via Github Api
+- Data Visualization Using Streamlit
+
+### PREVIEW LINKS
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://githb-repo-analyzer-tanishkbhatt.streamlit.app)
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Github-Repo-Analyzer)
 
---- 
-### BANKING SYSTEM - FASTAPI
-A Python based Banking System is a real world application handling Account and Money Management using FastAPI as Backend Engine and Streamlit as a Frontend Framework.
+---
+
+## BANKING SYSTEM – FASTAPI
+
+A Backend-Driven Banking System That Simulates Real-World Account And Transaction Management Using Fastapi.
+
+### FEATURES
+- Account Creation And Management
+- Deposit And Withdrawal Operations
+- Data Validation Using Pydantic
+- Activity Tracking
+- Restful Api Design
+
+### PREVIEW LINKS
 
 ![Local Hosting Only](https://img.shields.io/badge/Hosting-Local%20Only-blue?style=for-the-badge)
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Banking-System-FastAPI)
 
---- 
+---
 
-### ANALYTICS DASHBOARD
-A Python Based Analytics Tool to analyze ICC Men's T20 World Cup Performances from year 2022 onwards. Cooperated by Streamlit Framework and Hosting Services.
+## CRICKET ANALYTICS DASHBOARD
+
+A Data Analytics Platform For Analyzing Icc Men's T20 World Cup Performances From 2022 Onwards.
+
+### FEATURES
+- Player And Match Performance Analysis
+- Interactive Data Visualizations
+- Trend Analysis Based On Historical Data
+- Insight Generation
+
+### PREVIEW LINKS
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cricket-analytics-dashboard-tanishkbhatt.streamlit.app)
 
@@ -61,8 +92,17 @@ A Python Based Analytics Tool to analyze ICC Men's T20 World Cup Performances fr
 
 ---
 
-### DEVPULSE SURVEY
-An Intreactive Survey and Analytical Site for Developers to Analyze Current Trends. Streamlit UI and MongoDB Atlas Cloud Database Integration.
+## DEVPULSE SURVEY
+
+An Interactive Platform For Collecting And Analyzing Developer Trends With Real-Time Data Processing.
+
+### FEATURES
+- Survey-Based Data Collection
+- Cloud Database Integration (Mongodb Atlas)
+- Real-Time Analytics
+- Data Visualization Dashboard
+
+### PREVIEW LINKS
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://devpulse-survey-tanishkbhatt.streamlit.app)
 
@@ -71,6 +111,7 @@ An Intreactive Survey and Analytical Site for Developers to Analyze Current Tren
 ---
 
 # GITHUB STATS
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![Github Activity](https://nirzak-streak-stats.vercel.app/?user=TanishkBhatt&theme=dark)
