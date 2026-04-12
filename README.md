@@ -5,7 +5,7 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 
 # SOCIAL LINKS
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishkbhatt25@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishkbhatt25@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tanishk_Bhatt)
 
 # TECHNICAL STACK
@@ -15,37 +15,40 @@ My primary focus is on Python programming, particularly in the domains of Artifi
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## CURRENT SKILLS 
 - Core Python Programming
 - Pandas & Numpy - Data Analytics
 - Matplotlib & Plotly- Data Visualization
-- Streamlit - UI Integration
-- API Integration and Web Scrapping
-- SQlite Local Database
-- MongoDB Atlas Cloud Database
+- Streamlit - Frontend Integration
+- FastAPI - Backend Integration
+- MongoDB Database
 
 ## LEARNING PATH 
-- Frontend Web Development
-- Database Management Systems
+- Full Stack Web Development
 - Cloud and Authentication
 - Data Structures and Algorithms 
 - System Design
 
 ---
 
-# PROJECTS 
+# PROJECTS
 ### GITHUB REPO ANALYZER
 An intelligent tool that analyzes GitHub repositories, providing insights and statistics. Built using Python and GitHub API to fetch and process repository data.
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://githb-repo-analyzer-tanishkbhatt.streamlit.app)
 
-
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Github-Repo-Analyzer)
 
-![](img/github-repo-analyzer.png)
+--- 
+### BANKING SYSTEM - FASTAPI
+A Python based Banking System is a real world application handling Account and Money Management using FastAPI as Backend Engine and Streamlit as a Frontend Framework.
+
+![Local Hosting Only](https://img.shields.io/badge/Hosting-Local%20Only-blue?style=for-the-badge)
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Banking-System-FastAPI)
 
 --- 
 
@@ -54,22 +57,16 @@ A Python Based Analytics Tool to analyze ICC Men's T20 World Cup Performances fr
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cricket-analytics-dashboard-tanishkbhatt.streamlit.app)
 
-
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Cricket-Analytics-Dashboard)
-
-![](img/anlytics-dashboard.png)
 
 ---
 
 ### DEVPULSE SURVEY
-An Intreactive Survey and Analutics Site for Developers to Analyze Current Trends. Streamlit UI and MongoDB Atlas Cloud Database Integration.
+An Intreactive Survey and Analytical Site for Developers to Analyze Current Trends. Streamlit UI and MongoDB Atlas Cloud Database Integration.
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://devpulse-survey-tanishkbhatt.streamlit.app)
 
-
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/DevPulse-Survey)
-
-![](img/devpulse-survey.png)
 
 ---
 
