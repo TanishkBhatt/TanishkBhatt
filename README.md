@@ -1,12 +1,10 @@
 # ABOUT ME
+
 Hey There! I'm A Passionate 15-Year-Old Programmer From Pithoragarh, Uttarakhand, With A Deep Interest In Technology And Innovation. My Journey Into Programming Began In 2025, And Since Then, I've Been Captivated By The Endless Possibilities That Code Offers. As A Student, I Balance My Academic Pursuits With My Love For Programming And Software Development.
 
 My Primary Focus Is On Python Programming, Particularly In The Domains Of Artificial Intelligence And Machine Learning. I Believe That Technology Has The Power To Solve Real-World Problems, And I'm Committed To Developing My Skills To Become A Proficient Software Developer. Through Continuous Learning And Hands-On Projects, I'm Building A Strong Foundation In Programming While Exploring Data Science And AI.
 
-# SOCIAL LINKS
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishkbhatt25@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tanishk_Bhatt)
+---
 
 # TECHNICAL STACK
 
@@ -24,7 +22,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 - Matplotlib & Plotly - Data Visualization
 - Streamlit - Frontend Integration
 - Fastapi - Backend Integration
-- Mongodb Database
+- Mongodb - Database Integration
 
 ## LEARNING PATH
 - Full Stack Web Development
@@ -35,8 +33,6 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 ---
 
 # PROJECTS
-
----
 
 ## GITHUB REPO ANALYZER
 
@@ -71,42 +67,6 @@ A Backend-Driven Banking System That Simulates Real-World Account And Transactio
 ![Local Hosting Only](https://img.shields.io/badge/Hosting-Local%20Only-blue?style=for-the-badge)
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Banking-System-FastAPI)
-
----
-
-## CRICKET ANALYTICS DASHBOARD
-
-A Data Analytics Platform For Analyzing Icc Men's T20 World Cup Performances From 2022 Onwards.
-
-### FEATURES
-- Player And Match Performance Analysis
-- Interactive Data Visualizations
-- Trend Analysis Based On Historical Data
-- Insight Generation
-
-### PREVIEW LINKS
-
-[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cricket-analytics-dashboard-tanishkbhatt.streamlit.app)
-
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Cricket-Analytics-Dashboard)
-
----
-
-## DEVPULSE SURVEY
-
-An Interactive Platform For Collecting And Analyzing Developer Trends With Real-Time Data Processing.
-
-### FEATURES
-- Survey-Based Data Collection
-- Cloud Database Integration (Mongodb Atlas)
-- Real-Time Analytics
-- Data Visualization Dashboard
-
-### PREVIEW LINKS
-
-[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://devpulse-survey-tanishkbhatt.streamlit.app)
-
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/DevPulse-Survey)
 
 ---
 
