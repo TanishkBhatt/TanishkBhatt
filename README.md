@@ -36,36 +36,33 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 
 ## GITHUB REPO ANALYZER
 
-An Application That Analyzes Github Repositories And Provides Structured Insights Using Data Fetched From The Github Api.
+An Application That Analyzes Github Repositories And Provides Structured Insights Using Data Fetched From The Github API.
 
 ### FEATURES
-- Repository Statistics
-- Real-Time Data Fetching Via Github Api
-- Data Visualization Using Streamlit
+- Repository Report And Statistics
+- Real-Time Data Fetching Via Github API
+- Data Visualization
 
 ### PREVIEW LINKS
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://githb-repo-analyzer-tanishkbhatt.streamlit.app)
-
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Github-Repo-Analyzer)
 
 ---
 
 ## BANKING SYSTEM – FASTAPI
 
-A Backend-Driven Banking System That Simulates Real-World Account And Transaction Management Using Fastapi.
+A Backend-Driven Banking System That Simulates Real-World Account And Transaction Management Using FastAPI.
 
 ### FEATURES
 - Account Creation And Management
-- Deposit And Withdrawal Operations
-- Data Validation Using Pydantic
-- Activity Tracking
-- Restful Api Design
+- Transaction And Loan Operations
+- Data Validation And Activity Tracking
+- Restful API Design
 
 ### PREVIEW LINKS
 
 ![Local Hosting Only](https://img.shields.io/badge/Hosting-Local%20Only-blue?style=for-the-badge)
-
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Banking-System-FastAPI)
 
 ---
