@@ -67,12 +67,6 @@ A Backend-Driven Banking System That Simulates Real-World Account And Transactio
 
 ---
 
-# GITHUB STATS
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&hide_border=false&include_all_commits=false&count_private=false)
-
-![Github Activity](https://nirzak-streak-stats.vercel.app/?user=TanishkBhatt)
-
-![Top Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanishkBhatt)
+### BE CONSISTENT AND KEEP LEARNING 🔥
 
 ---
