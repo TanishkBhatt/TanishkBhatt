@@ -14,6 +14,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Pydantic](https://img.shields.io/badge/Pydantic-f91234?style=for-the-badge&logo=pydantic)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## CURRENT SKILLS
@@ -21,8 +22,8 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 - Pandas & Numpy - Data Analytics
 - Matplotlib & Plotly - Data Visualization
 - Streamlit - Frontend Integration
-- Fastapi - Backend Integration
-- Mongodb - Database Integration
+- Fastapi & Pydantic - Backend Integration
+- MongoDB Cloud - Database Integration
 
 ## LEARNING PATH
 - Full Stack Web Development
@@ -35,13 +36,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 # PROJECTS
 
 ## GITHUB REPO ANALYZER
-
-An Application That Analyzes Github Repositories And Provides Structured Insights Using Data Fetched From The Github API.
-
-### FEATURES
-- Repository Report And Statistics
-- Real-Time Data Fetching Via Github API
-- Data Visualization
+- Github Repo Analyzer Automates Repository and Account Analysis by Extracting Useful Metrics and Contribution Insights.
 
 ### PREVIEW LINKS
 
@@ -50,23 +45,20 @@ An Application That Analyzes Github Repositories And Provides Structured Insight
 
 ---
 
-## BANKING SYSTEM – FASTAPI
-
-A Backend-Driven Banking System That Simulates Real-World Account And Transaction Management Using FastAPI.
-
-### FEATURES
-- Account Creation And Management
-- Transaction And Loan Operations
-- Data Validation And Activity Tracking
-- Restful API Design
+## MUSIC MANIA
+- A Marvellous Collection Of 100 Songs Accross Various Categories with Automatic Recommendation System.
 
 ### PREVIEW LINKS
 
-![Local Hosting Only](https://img.shields.io/badge/Hosting-Local%20Only-blue?style=for-the-badge)
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Banking-System-FastAPI)
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://musicmania-tanishkbhatt.streamlit.app)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/MusicMania)
 
 ---
 
-### BE CONSISTENT AND KEEP LEARNING 🔥
+# GITHUB STATS
+
+- GITHUB CONTRIBUTIONS
+
+![GITHUB CONTRIBUTIONS](https://streak-stats.demolab.com/?user=TanishkBhatt&theme=dark)
 
 ---
