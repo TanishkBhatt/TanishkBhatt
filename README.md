@@ -29,6 +29,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 - Full Stack Web Development
 - Cloud And Authentication
 - Data Structures And Algorithms
+- AI and Machine Learning
 - System Design
 
 ---
@@ -45,7 +46,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 
 ---
 
-## MUSIC MANIA
+## MUSICMANIA
 - A Marvellous Collection Of 100 Songs Accross Various Categories with Automatic Recommendation System.
 
 ### PREVIEW LINKS
