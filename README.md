@@ -39,8 +39,6 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 ## GITHUB REPO ANALYZER
 - Github Repo Analyzer Automates Repository and Account Analysis by Extracting Useful Metrics and Contribution Insights.
 
-### PREVIEW LINKS
-
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://githb-repo-analyzer-tanishkbhatt.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Github-Repo-Analyzer)
 
@@ -48,8 +46,6 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 
 ## MUSICMANIA
 - A Marvellous Collection Of 100 Songs Accross Various Categories with Automatic Recommendation System.
-
-### PREVIEW LINKS
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://musicmania-tanishkbhatt.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/MusicMania)
