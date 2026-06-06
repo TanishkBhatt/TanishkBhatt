@@ -307,8 +307,13 @@ section {
 }
 
 /* Projects Section */
-#projects {
+#backend-projects {
     background-color: var(--secondary-bg);
+    flex-direction: column;
+}
+
+#web-applications {
+    background-color: var(--primary-bg);
     flex-direction: column;
 }
 
@@ -374,106 +379,6 @@ section {
 }
 
 .project-link:hover {
-    transform: scale(1.05);
-}
-
-/* Achievements Section */
-#achievements {
-    flex-direction: column;
-}
-
-.achievements-container {
-    width: 100%;
-    max-width: 1000px;
-}
-
-.achievement-card {
-    background: var(--card-bg);
-    border-radius: 15px;
-    padding: 3rem;
-    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
-    display: flex;
-    gap: 2rem;
-    align-items: flex-start;
-    transition: transform 0.3s, box-shadow 0.3s;
-    margin-bottom: 2rem;
-}
-
-.achievement-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 10px 30px rgba(255, 215, 0, 0.3);
-}
-
-.achievement-icon {
-    width: 80px;
-    height: 80px;
-    background: linear-gradient(135deg, var(--accent-color), #ffed4e);
-    border-radius: 15px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 2.5rem;
-    color: var(--primary-bg);
-    flex-shrink: 0;
-}
-
-.achievement-content {
-    flex: 1;
-}
-
-.achievement-content h3 {
-    color: var(--accent-color);
-    font-size: 1.8rem;
-    margin-bottom: 0.5rem;
-    text-transform: uppercase;
-}
-
-.achievement-subtitle {
-    color: var(--text-secondary);
-    font-size: 1rem;
-    font-weight: 600;
-    margin-bottom: 1rem;
-    text-transform: uppercase;
-}
-
-.achievement-description {
-    color: var(--text-secondary);
-    margin-bottom: 1.5rem;
-    line-height: 1.8;
-}
-
-.achievement-details {
-    background: var(--secondary-bg);
-    padding: 1.5rem;
-    border-radius: 10px;
-    border-left: 4px solid var(--accent-color);
-    margin-bottom: 1.5rem;
-}
-
-.achievement-details p {
-    color: var(--text-secondary);
-    margin-bottom: 0.5rem;
-}
-
-.achievement-details strong {
-    color: var(--accent-color);
-    text-transform: uppercase;
-}
-
-.achievement-link {
-    display: block;
-    width: 200px;
-    margin-bottom: 6px;
-    padding: 0.7rem 1.5rem;
-    background: var(--accent-color);
-    color: var(--primary-bg);
-    text-decoration: none;
-    border-radius: 25px;
-    font-weight: bold;
-    transition: transform 0.3s;
-}
-
-.achievement-link:hover {
     transform: scale(1.05);
 }
 
@@ -641,16 +546,5 @@ footer {
     .profile-image {
         width: 200px;
         height: 200px;
-    }
-
-    .achievement-card {
-        flex-direction: column;
-        padding: 2rem;
-    }
-
-    .achievement-icon {
-        width: 60px;
-        height: 60px;
-        font-size: 2rem;
     }
 }

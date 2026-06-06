@@ -24,17 +24,36 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 - Streamlit - Frontend Integration
 - Fastapi & Pydantic - Backend Integration
 - MongoDB Cloud - Database Integration
+- Vercel & Render - Deployment Integration
 
 ## LEARNING PATH
 - Full Stack Web Development
-- Cloud And Authentication
 - Data Structures And Algorithms
+- Database Management Systems
 - AI and Machine Learning
 - System Design
 
 ---
 
-# PROJECTS
+# BACKEND PROJECTS
+
+## BANKING SYSTEM - FASTAPI
+- A Complete Modern Backend System Built with FastAPI and MongoDB for Handling Banking Operations.
+
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://banking-system-fastapi.onrender.com)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Banking-System-FastAPI)
+
+---
+
+## MATHAPI.COM
+- A RESTful API Services for Students pursuing Mathematics and related fields. Currently under Development.
+
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/MathAPI)
+
+---
+
+# WEB APPLICATIONS
 
 ## GITHUB REPO ANALYZER
 - Github Repo Analyzer Automates Repository and Account Analysis by Extracting Useful Metrics and Contribution Insights.
