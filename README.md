@@ -9,22 +9,25 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 # TECHNICAL STACK
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI_Backend-005571?style=for-the-badge&logo=fastapi)
+![Pydantic](https://img.shields.io/badge/Pydantic_Validataion-ff3456?style=for-the-badge&logo=pydantic)
+![MongoDB](https://img.shields.io/badge/MongoDB_Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Pydantic](https://img.shields.io/badge/Pydantic-f91234?style=for-the-badge&logo=pydantic)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit_UI-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Deployment](https://img.shields.io/badge/Vercel_Render_deployment-%23013.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 ## CURRENT SKILLS
-- Core Python Programming
-- Pandas & Numpy - Data Analytics
-- Matplotlib & Plotly - Data Visualization
-- Streamlit - Frontend Integration
-- Fastapi & Pydantic - Backend Integration
-- MongoDB Cloud - Database Integration
-- Vercel & Render - Deployment Integration
+- PYTHON - Core Programming
+- FASTAPI - Backend Integration
+- PYDANTIC - Data Validations
+- MONGODB - Database Integration
+- NUMPY & PANDAS - Data Analytics
+- MATPLOTLIB & PLOTLY - Data Visualization
+- STREAMLIT - Frontend Integration
+- VERCEL & RENDER - Deployment Integration
 
 ## LEARNING PATH
 - Full Stack Web Development
@@ -37,18 +40,18 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 
 # BACKEND PROJECTS
 
-## BANKING SYSTEM - FASTAPI
-- A Complete Modern Backend System Built with FastAPI and MongoDB for Handling Banking Operations.
+## BANKING SYSTEM - BACKEND
+- A Complete Modern Backend System Built with FastAPI Backend and MongoDB as Databse for Handling Real World Banking Operations.
 
-[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://banking-system-fastapi.onrender.com)
+[![Live App](https://img.shields.io/badge/Documentation-005571?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Banking-System-FastAPI)
 
 ---
 
-## MATHAPI.COM
-- A RESTful API Services for Students pursuing Mathematics and related fields. Currently under Development.
+## MATHAPI - API SERVICES
+- A RESTful API Services for Students and Developers Pursuing Mathematics and Related Fields.
 
-[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
+[![Live App](https://img.shields.io/badge/Documentation-005571?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/MathAPI)
 
 ---
@@ -56,7 +59,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 # WEB APPLICATIONS
 
 ## GITHUB REPO ANALYZER
-- Github Repo Analyzer Automates Repository and Account Analysis by Extracting Useful Metrics and Contribution Insights.
+- Github Repo is an Analysing Tool that Automates Repository and Account Analysis by Extracting Useful Metrics and Contribution Insights through Github RESTAPIs.
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://githb-repo-analyzer-tanishkbhatt.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Github-Repo-Analyzer)
