@@ -14,9 +14,9 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 ![MongoDB](https://img.shields.io/badge/MongoDB_Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit_UI-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Deployment](https://img.shields.io/badge/Vercel_Render_deployment-%23013.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Deployment](https://img.shields.io/badge/Vercel_Render_deployment-%23013.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 ## CURRENT SKILLS
