@@ -40,7 +40,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Artifi
 
 # BACKEND PROJECTS
 
-## BANKING SYSTEM - BACKEND
+## BANKING SYSTEM - FASTAPI 
 - A Complete Modern Backend System Built with FastAPI Backend and MongoDB as Databse for Handling Real World Banking Operations.
 
 [![Live App](https://img.shields.io/badge/Documentation-005571?style=for-the-badge&logo=fastapi&logoColor=white)](#)
