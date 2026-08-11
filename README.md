@@ -1,6 +1,6 @@
 # ABOUT ME
 
-Hey There! I'm A Passionate 15-Year-Old Programmer From Uttarakhand, India. With A Deep Interest In Technology And Innovation. My Journey Into Programming Began In 2025, And Since Then, I've Been Captivated By The Endless Possibilities That Code Offers. As A Student, I Balance My Academic Pursuits With My Love For Programming And Software Development.
+Hey There! I'm A Passionate 16-Year-Old Programmer From Uttarakhand, India. With A Deep Interest In Technology And Innovation. My Journey Into Programming Began In 2025, And Since Then, I've Been Captivated By The Endless Possibilities That Code Offers. As A Student, I Balance My Academic Pursuits With My Love For Programming And Software Development.
 
 My Primary Focus Is On Python Programming, Particularly In The Domains Of Backend Development and Artificial Intelligence. I Believe That Technology Has The Power To Solve Real-World Problems, And I'm Committed To Developing My Skills To Become A Proficient Software Developer. Through Continuous Learning And Hands-On Projects, I'm Building A Strong Foundation In Programming While Exploring Data Science And AI.
 
@@ -73,6 +73,24 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://musicmania-tanishkbhatt.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/MusicMania)
+
+---
+
+# VIBE CODING
+
+## SMART LIFE PLANNER
+> SMART Life Planner is a comprehensive application designed to help users organize their daily routines, set goals, track habits, create notes, wrote diaries and journals, pomodoro sessions and track their progress effectively.
+
+[![Live App](https://img.shields.io/badge/NEXTJS-Live_App-1F3456?style=for-the-badge&logo=prisma&logoColor=white)](https://smart-life-planner.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/SMART-Life-Planner)
+
+---
+
+## SNAPNOTES
+> SnapNotes is an automatic notes generating application that allows users to create summarized notes through PDF, website, text document or even youtube videos, organize and manage them with ease. It also contains a dedicated student's section.
+
+[![Live App](https://img.shields.io/badge/In_Progress-1F3456?style=for-the-badge&logo=prisma&logoColor=white)](#)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](#)
 
 ---
 
