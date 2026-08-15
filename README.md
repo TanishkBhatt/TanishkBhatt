@@ -89,8 +89,8 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 ## SNAPNOTES
 > SnapNotes is an automatic notes generating application that allows users to create summarized notes through PDF, website, text document or even youtube videos, organize and manage them with ease. It also contains a dedicated student's section.
 
-[![Live App](https://img.shields.io/badge/In_Progress-1F3456?style=for-the-badge&logo=prisma&logoColor=white)](#)
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](#)
+[![Live App](https://img.shields.io/badge/NEXTJS-Live_App-1F3456?style=for-the-badge&logo=prisma&logoColor=white)](https://snappnotes.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/SnapNotes)
 
 ---
 
