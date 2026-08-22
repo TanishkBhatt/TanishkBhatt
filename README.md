@@ -81,7 +81,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 ## SMART LIFE PLANNER
 > SMART Life Planner is a comprehensive application designed to help users organize their daily routines, set goals, track habits, create notes, wrote diaries and journals, pomodoro sessions and track their progress effectively.
 
-[![Live App](https://img.shields.io/badge/NEXTJS-Live_App-1F3456?style=for-the-badge&logo=prisma&logoColor=white)](https://smart-life-planner.vercel.app)
+[![Live App](https://img.shields.io/badge/NEXTJS-Live_App-1F3456?style=for-the-badge&logo=prisma&logoColor=white)](https://smart-life-plannner.vercel.app)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/SMART-Life-Planner)
 
 ---
