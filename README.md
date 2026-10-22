@@ -11,7 +11,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI_Environment-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
+![SQLite](https://img.shields.io/badge/SQLite-%23FF4B4B.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)
@@ -44,7 +44,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 ## MATHAPI - API SERVICES
 > A RESTful API Services designed for students and developers pursuing mathematics and related fields. Provides structured access to topic explanations, step-by-step worked examples, practice questions and concise formulae sheets of topics across various branches mathematics.
 
-[![Live App](https://img.shields.io/badge/Documentation-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://mathapi.vercel.app/docs)
+[![Live App](https://img.shields.io/badge/Documentation-blue?style=for-the-badge&logo=fastapi&logoColor=white)](https://mathapi.vercel.app/docs)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/MathAPI)
 
 ---
@@ -52,7 +52,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 ## BANKING SYSTEM - FASTAPI 
 > A complete modern backend system built with FastAPI and MongoDB for handling real world banking operations. Including account, money, credits and transactions management. A complete guide for understanding modern backend development practices.
 
-[![Live App](https://img.shields.io/badge/Learning_Only-005571?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Live App](https://img.shields.io/badge/Learning_Only-blue?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Banking-System-FastAPI)
 
 
@@ -64,7 +64,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 ## APEX INSIGHTS - SURVEY MADE EASY
 > A full-stack survey platform for students, school projects and research. Design questionnaires with seven question types, publish a public response link and explore clear per-question analytics — with a deterministic synthetic dataset to preview results before anyone responds. Built with Next.js, TypeScript, Drizzle ORM, Neon Postgres, Better Auth, Tailwind CSS and Recharts.
 
-[![Live App](https://img.shields.io/badge/Live_App-FF7A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://apex-insights-tanishkbhatt.vercel.app)
+[![Live App](https://img.shields.io/badge/NEXTJS-Live_App-orange?style=for-the-badge&logo=prisma&logoColor=white)](https://apex-insights-tanishkbhatt.vercel.app)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Apex-Insights)
 
 ---
@@ -72,7 +72,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 ## SMART LIFE PLANNER
 > SMART Life Planner is a comprehensive application designed to help users organize their daily routines, set goals, track habits, create notes, write diaries and journals, run pomodoro sessions and track their progress effectively.
 
-[![Live App](https://img.shields.io/badge/NEXTJS-Live_App-1F3456?style=for-the-badge&logo=prisma&logoColor=white)](https://smart-life-planner.vercel.app)
+[![Live App](https://img.shields.io/badge/NEXTJS-Live_App-orange?style=for-the-badge&logo=prisma&logoColor=white)](https://smart-life-planner.vercel.app)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/SMART-Life-Planner)
 
 ---
@@ -80,7 +80,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 ## SNAPNOTES
 > SnapNotes is an automatic notes generating application that allows users to create summarized notes through PDF, website, text document or even YouTube videos, organize and manage them with ease. It also contains a dedicated student's section.
 
-[![Live App](https://img.shields.io/badge/NEXTJS-Live_App-1F3456?style=for-the-badge&logo=prisma&logoColor=white)](https://snappnotes.vercel.app)
+[![Live App](https://img.shields.io/badge/NEXTJS-Live_App-orange?style=for-the-badge&logo=prisma&logoColor=white)](https://snappnotes.vercel.app)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/SnapNotes)
 
 ---
@@ -90,7 +90,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 ## GITHUB REPO ANALYZER
 > Github Repo Analyzer is an analysing tool built with python that automate one's repository and account analysis by extracting useful metrics and contribution insights through Github RESTAPI services alongwith some additional features like graphical representations.
 
-[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://githb-repo-analyzer-tanishkbhatt.streamlit.app)
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://githb-repo-analyzer-tanishkbhatt.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/Github-Repo-Analyzer)
 
 ---
@@ -98,15 +98,15 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 ## MUSICMANIA
 > MusicMania is a music listening application with a marvellous collection of 100+ songs across various categories like evergreen, modern, ghazal, qawwali, English, Punjabi, and bhajans with an advanced automatic song recommendation system.
 
-[![Live App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://musicmania-tanishkbhatt.streamlit.app)
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://musicmania-tanishkbhatt.streamlit.app)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TanishkBhatt/MusicMania)
 
 ---
 
 # GITHUB STATS
 
-- GITHUB CONTRIBUTIONS
 
-![GITHUB CONTRIBUTIONS](https://streak-stats.demolab.com/?user=TanishkBhatt&theme=dark)
+![GITHUB CONTRIBUTIONS](https://github-readme-stats.vercel.app/api?username=TanishkBhatt&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=E85D04&amp;icon_color=E85D04&amp;text_color=6F655C&amp;rank_icon=github)
+![GITHUB CONTRIBUTIONS](https://streak-stats.demolab.com/?user=TanishkBhatt&amp;hide_border=true&amp;background=00000000&amp;border=00000000&amp;stroke=E85D04&amp;ring=E85D04&amp;fire=E85D04&amp;currStreakNum=1C1917&amp;sideNums=1C1917&amp;currStreakLabel=E85D04&amp;sideLabels=6F655C&amp;dates=94897F)
 
 ---
