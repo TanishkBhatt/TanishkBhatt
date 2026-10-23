@@ -9,15 +9,18 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 # TECHNICAL STACK
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI_Environment-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Pydantic](https://img.shields.io/badge/Pydantic-crimson?style=for-the-badge&logo=pydantic)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23FF4B4B.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Deployment](https://img.shields.io/badge/Vercel_deployment-%23013.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![AI Agents](https://img.shields.io/badge/Opencode-%230130.svg?style=for-the-badge&logo=opencode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-crimson?style=for-the-badge&logo=streamlit&logoColor=white)
+
+![Deployment](https://img.shields.io/badge/Vercel-%23013.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![AI Agents](https://img.shields.io/badge/Opencode-black?style=for-the-badge&logo=opencode)
 
 
 ## CURRENT SKILLS
@@ -25,7 +28,7 @@ My Primary Focus Is On Python Programming, Particularly In The Domains Of Backen
 |-------|------
 | PYTHON | Core Programming Language
 | FASTAPI ENVIRONMENT| Backend Integration
-| MONGODB & SQLite| Database Integration
+| MONGODB & SQLITE| Database Integration
 | NUMPY & PANDAS & MATPLOTLIB | Data Analytics
 | VERCEL | Deployment Integration
 | OPENCODE | AI Agent Integration
