@@ -1446,8 +1446,7 @@ main {
 
 .vibe-grid {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    grid-template-rows: repeat(2, minmax(300px, auto));
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.25rem;
 }
 
@@ -1469,19 +1468,20 @@ main {
 }
 
 .vibe-card--apex {
-    grid-column: span 2;
-    grid-row: span 2;
+    display: grid;
+    grid-template-columns: minmax(0, 1.08fr) minmax(0, 0.92fr);
+    align-items: center;
+    gap: clamp(1.5rem, 3vw, 2.75rem);
+    padding: clamp(1.5rem, 3vw, 2.2rem);
     background:
         linear-gradient(155deg, rgba(255, 122, 26, 0.1), transparent 42%),
         var(--surface);
     border-color: var(--border-strong);
 }
 
-.vibe-card--compact {
-    grid-column: span 2;
-    background:
-        radial-gradient(ellipse at 100% 100%, rgba(255, 122, 26, 0.08), transparent 60%),
-        var(--surface);
+.apex-copy {
+    display: flex;
+    flex-direction: column;
 }
 
 .vibe-topline {
@@ -1548,8 +1548,8 @@ main {
 }
 
 .apex-visual {
-    margin-top: auto;
-    padding-top: 1.4rem;
+    margin-top: 0;
+    padding-top: 0;
 }
 
 .survey-window {
@@ -1661,91 +1661,6 @@ main {
     border-radius: 999px;
     background: rgba(255, 122, 26, 0.11);
     color: #ffa95c;
-}
-
-.vibe-badge {
-    width: 44px;
-    height: 44px;
-    display: grid;
-    place-items: center;
-    margin-bottom: 0.85rem;
-    border: 1px solid var(--border-strong);
-    border-radius: 13px;
-    background: var(--accent-soft);
-    color: var(--accent);
-    font-size: 1rem;
-}
-
-.vibe-kicker {
-    display: block;
-    margin-bottom: 0.35rem;
-    color: var(--muted-2);
-    font-size: 0.57rem;
-    font-weight: 600;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
-}
-
-.vibe-card--compact h3 {
-    font-size: 1.28rem;
-    font-weight: 600;
-    letter-spacing: -0.02em;
-}
-
-.vibe-card--compact .vibe-desc {
-    display: -webkit-box;
-    overflow: hidden;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 4;
-    font-size: 0.8rem;
-}
-
-.compact-links {
-    display: flex;
-    align-items: center;
-    gap: 1.15rem;
-    margin-top: auto;
-    padding-top: 1rem;
-}
-
-.compact-links a {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.38rem;
-    color: var(--muted);
-    font-size: 0.73rem;
-    font-weight: 500;
-    transition: color 0.25s ease;
-}
-
-.compact-links a:first-child {
-    color: var(--accent);
-}
-
-.compact-links a:hover {
-    color: var(--accent-bright);
-}
-
-.compact-links i {
-    font-size: 0.66rem;
-}
-
-.vibe-watermark {
-    position: absolute;
-    right: -1.1rem;
-    bottom: -1.5rem;
-    z-index: 0;
-    color: var(--accent);
-    font-size: 7rem;
-    opacity: 0.04;
-    transform: rotate(-8deg);
-    transition: transform 0.5s ease, opacity 0.5s ease;
-    pointer-events: none;
-}
-
-.vibe-card:hover .vibe-watermark {
-    transform: rotate(0deg) scale(1.05);
-    opacity: 0.07;
 }
 
 .app-list {
@@ -2178,11 +2093,6 @@ main {
     z-index: 1;
 }
 
-.vibe-card>.vibe-watermark {
-    position: absolute;
-    z-index: 0;
-}
-
 @media (hover: hover) {
     .spotlight-card:hover::after {
         opacity: 1;
@@ -2301,20 +2211,6 @@ main {
 
     .projects-grid {
         grid-template-columns: 1fr;
-    }
-
-    .vibe-grid {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-        grid-template-rows: auto;
-    }
-
-    .vibe-card--apex {
-        grid-column: span 2;
-        grid-row: auto;
-    }
-
-    .vibe-card--compact {
-        grid-column: span 1;
     }
 
     .contact-inner {
@@ -2449,13 +2345,9 @@ main {
         height: 66px;
     }
 
-    .vibe-grid {
+    .vibe-card--apex {
         grid-template-columns: 1fr;
-    }
-
-    .vibe-card--apex,
-    .vibe-card--compact {
-        grid-column: span 1;
+        gap: 1.5rem;
     }
 
     .vibe-card {
