@@ -1,0 +1,24 @@
+{
+  "name": "tanishk-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Tanishk Bhatt - A 16-year-old programmer from Uttarakhand, India",
+  "main": "script.js",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanishkBhatt/TanishkBhatt.git"
+  },
+  "keywords": ["portfolio", "web-analytics"],
+  "author": "Tanishk Bhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanishkBhatt/TanishkBhatt/issues"
+  },
+  "homepage": "https://github.com/TanishkBhatt/TanishkBhatt#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
